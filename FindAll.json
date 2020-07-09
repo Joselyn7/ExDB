@@ -1,0 +1,4 @@
+[{"id":1,"whenCreated":"2020-07-08","whenLastUpdated":"2020-07-08","name":"TEST_CATEGORY1","description":"TEST_DESCRIPTION1"},
+    {"id":2,"whenCreated":"2020-07-08","whenLastUpdated":"2020-07-08","name":"TEST_CATEGORY2","description":"TEST_DESCRIPTION2"},
+    {"id":3,"whenCreated":"2020-07-08","whenLastUpdated":"2020-07-08","name":"TEST_CATEGORY3","description":"TEST_DESCRIPTION3"},
+    {"id":4,"whenCreated":"2020-07-08","whenLastUpdated":"2020-07-08","name":"TEST_CATEGORY4","description":"TEST_DESCRIPTION4"}]

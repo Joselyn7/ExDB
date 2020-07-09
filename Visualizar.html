@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+    <title>Visualizar</title>
+</head>
+<body>
+    <div class="container">
+        <button class="btn" id="boton">Listar</button>
+        <form action="index.html" name="miFormulario" method="GET">
+            <button class="btn" id="boton">Regresar</button> 
+        </form>
+        <table>
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Descripcion</th>
+                </tr>
+            </thead>
+            <tbody id="res">
+
+            </tbody>
+        </table>
+    </div>
+    <script src="ajax2.js"></script>
+</body>
+</html>
